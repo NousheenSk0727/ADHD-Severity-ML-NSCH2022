@@ -3,3 +3,4 @@ DATA/
 *.csv
 *.zip
 .DS_Store
+.Rapp.history
