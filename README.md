@@ -25,11 +25,11 @@ Rather than throwing all variables into one model, I organized 51 predictors int
 
 | Domain | Variables | Examples |
 |--------|-----------|---------|
-| D1 — Individual | 14 | Age, sex, comorbidities (anxiety, ASD, depression), memory difficulties, self-regulation |
-| D2 — Family & Household | 9 | Parental mental health, parental aggravation, ACE count, poverty level, food security |
-| D3 — Community | 6 | Neighborhood safety, bullying frequency, difficulty making friends, community ACEs |
-| D4 — Behavioral | 8 | School engagement, difficulty of care, screen time, sleep, missed school days |
-| D5 — Healthcare Access | 5 | Family-centred care, unmet needs, frustration frequency, care coordination |
+| D1 - Individual | 14 | Age, sex, comorbidities (anxiety, ASD, depression), memory difficulties, self-regulation |
+| D2 - Family & Household | 9 | Parental mental health, parental aggravation, ACE count, poverty level, food security |
+| D3 - Community | 6 | Neighborhood safety, bullying frequency, difficulty making friends, community ACEs |
+| D4 - Behavioral | 8 | School engagement, difficulty of care, screen time, sleep, missed school days |
+| D5 - Healthcare Access | 5 | Family-centred care, unmet needs, frustration frequency, care coordination |
 
 ---
 
